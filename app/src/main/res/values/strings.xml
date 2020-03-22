@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityApp</string>
+    <string name="total_installed_apps">Total Installed Apps: %s</string>
+</resources>
