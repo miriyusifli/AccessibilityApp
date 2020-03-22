@@ -11,5 +11,9 @@ The goal of this project is to use accessibility service in testing UI elements 
 ## How to Use
 After successful installation, Accessibilbity Service can be used by;
 * Launching the service. After this, a list of all installed application installed on the device or emulator is being displayed.
-* Select from the list of all installed apps the application that needs to be tested. (**com.haringeymobile.ukweather** , **com.dougkeen.bart** , **ch.bailu.aat** can be tested). If you want to test something else, please add packagename to *android:packageNames* in the app.src.main.res.xml.servicefonfig.xml file.
+* Select from the list of all installed apps the application that needs to be tested. (**com.haringeymobile.ukweather** , **com.dougkeen.bart** , **ch.bailu.aat** apps can be tested). If you want to test another app, please add packagename to *android:packageNames* in the app.src.main.res.xml.servicefonfig.xml file.
 * After this, Accessibility Service automatically starts testing
+
+## Demo
+
+![](readme.gif)
